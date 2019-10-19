@@ -1,0 +1,1 @@
+alert ('funqcia2');
